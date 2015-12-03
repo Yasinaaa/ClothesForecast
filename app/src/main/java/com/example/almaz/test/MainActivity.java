@@ -21,6 +21,7 @@ import android.widget.TextView;
 import com.example.almaz.test.Model.Clothes;
 import com.example.almaz.test.Model.ClothesSet;
 import com.example.almaz.test.Model.Forecast;
+import com.example.almaz.test.adapters.RecyclerViewAdapter;
 import com.example.almaz.test.openweatherapi.ForecastService;
 import com.example.almaz.test.openweatherapi.WeatherRequest;
 import com.octo.android.robospice.SpiceManager;
